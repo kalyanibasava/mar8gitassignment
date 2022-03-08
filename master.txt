@@ -1,2 +1,2 @@
 master file in master branch
-
+editing text in master file on privite branch 
